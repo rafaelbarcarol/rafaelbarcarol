@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/rafaelbarcarol">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarcarol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarcarol&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarcarol&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarcarol&layout=compact&langs_count=6&theme=react"/>
 
 </div>
 <div style="display: inline_block"><br>
