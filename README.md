@@ -1,5 +1,13 @@
 ## Seja bem-vindo ao meu perfil do GitHub 🖥️😁
 
+👨 Olá, sou o Rafael! Estou em transição de carreira para a área da tecnologia!
+
+📚 Estudante de Análise e Desenvolvimento de Sistemas
+
+🖥️ Praticando e estudando desenvolvimento Front-end
+
+<br>
+
  <div>
    <a href="https://github.com/rafaelbarcarol">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarcarol&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
