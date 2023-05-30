@@ -10,8 +10,8 @@
 
  <div>
    <a href="https://github.com/rafaelbarcarol">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarcarol&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarcarol&layout=compact&langs_count=6&theme=react"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarcarol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarcarol&layout=compact&langs_count=6&theme=dracula"/>
 
 <div><br>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
