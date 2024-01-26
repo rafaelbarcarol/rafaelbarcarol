@@ -1,10 +1,10 @@
 ## Seja bem-vindo ao meu perfil do GitHub 🖥️😁
 
-👨 Olá, sou o Rafael! Estou em transição de carreira para a área da tecnologia!
+👨 Olá, sou o Rafael!
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
-🖥️ Praticando e estudando desenvolvimento Front-end
+🖥️ Estagiário em Desenvolvimento de Software
 
 <br>
 
