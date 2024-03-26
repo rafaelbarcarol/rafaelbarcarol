@@ -4,7 +4,7 @@
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
-🖥️ Estagiário em Desenvolvimento de Software
+🖥️ Desenvolvedor de Software
 
 <br>
 
