@@ -24,4 +24,4 @@
 
 ##
 
-<p>Fonte dos ícones utilizados: <a href="https://skillicons.dev/" target="_blank" rel="noopener">Skillicons</a></p>
+<p>Fonte dos ícones utilizados: <a href="https://skillicons.dev/" target="_blank" rel="noopener">Skill Icons</a></p>
