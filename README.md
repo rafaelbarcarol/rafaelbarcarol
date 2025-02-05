@@ -1,7 +1,7 @@
 ### Rafael M. Barcarol
 
 - 🌐 Caxias do Sul - RS, Brasil
-- 👨‍💻 Desenvolvedor de Software na <a href="https://wearenomad.dev/" target="_blank" rel="noopener">Nomad Innovation</a>
+- 👨‍💻 Desenvolvedor de Software na <a href="https://wecode.digital/" target="_blank" rel="noopener">Wecode</a>
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (4/5)
 
 ##
